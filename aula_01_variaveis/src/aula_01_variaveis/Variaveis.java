@@ -38,6 +38,8 @@ public class Variaveis {
 		nome = leia.nextLine();
 		
 		System.out.println("Olá " + nome + ", seja bem-vindo(a)!");
+		
+		leia.close();
 	}
 
 }
