@@ -12,10 +12,10 @@ public class Exe_02 {
 		
 		int numerospares = 0, numerosimpares = 0;
 		
-		System.out.println("Contagem de números pares e ímpares entre dez números");
+		System.out.println("Contagem de números pares e ímpares entre dez números\n");
 		
 		for(int contador = 0; contador < 10; contador++) {
-			System.out.printf("\nDigite o %d˚ número (inteiro): ",contador+1);
+			System.out.printf("Digite o %d˚ número (inteiro): ",contador+1);
 			
 			numerosate10 = leia.nextInt();
 			

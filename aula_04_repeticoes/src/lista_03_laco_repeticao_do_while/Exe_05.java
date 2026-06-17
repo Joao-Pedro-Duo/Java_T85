@@ -9,22 +9,22 @@ public class Exe_05 {
 		
 		int numero = 0, somanumerospositivos = 0;
 		
-		System.out.println("Soma de números somente positivos!\n(Digite '0' para parar o loop!)");
+		System.out.println("Soma de números somente positivos!\n(Digite '0' para parar o loop!)\n");
 		
 			do {
 				
-				System.out.println("\nDigite um número: ");
+				System.out.print("Digite um número: ");
 				numero = leia.nextInt();
 					
 				if (numero > 0) {
 					somanumerospositivos += numero;
 				} else if (numero < 0 ) {
-					System.out.println("");
+					System.out.print("");
 				}
 			} while (numero != 0); 	
 		
 		System.out.printf("\nResultado: ");
-		System.out.printf("\nA soma dos números positivos: %d", somanumerospositivos);
+		System.out.printf("\nA soma dos números positivos é: %d", somanumerospositivos);
 		
 		leia.close();
 	}

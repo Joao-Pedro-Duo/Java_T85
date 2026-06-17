@@ -10,11 +10,11 @@ public class Exe_03 {
 		int idade = 0, menoresde21 = 0, maioresde50 = 0 ;
 		boolean iniciar = true;
 		
-		System.out.println("Contagem de pessoas que são menores de 21 anos e maiores de 50 anos\n(Digite um numero negativo para parar o loop!)");
+		System.out.println("Contagem de pessoas que são menores de 21 anos e maiores de 50 anos\n(Digite um numero negativo para parar o loop!)\n");
 		
 		while(iniciar) {
 			
-			System.out.println("\nDigite uma idade: ");
+			System.out.print("Digite uma idade: ");
 			idade = leia.nextInt();
 			
 			if (idade < 21 && idade >= 0) {
