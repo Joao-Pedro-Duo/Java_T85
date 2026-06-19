@@ -37,7 +37,7 @@ public class Atividade_01_Fila {
 			}while (opcao < 0 || opcao > 3);	
 				
 			if (opcao == 1) {
-				leia.nextLine(); // Limpa o ENTER pendente
+				leia.nextLine(); // Para não dar conflito entre o "nextInt" e o "nextLine"
 				
 				System.out.print("Digite o nome: ");
 				String nome = leia.nextLine();
