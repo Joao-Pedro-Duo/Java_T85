@@ -92,7 +92,7 @@ Este repositório representa minha evolução técnica na área de desenvolvimen
 
 ☕ Desenvolvedor Full Stack Java Jr. em formação
 
-🔗 [LinkedIn](www.linkedin.com/in/joaopedroduo)
+🔗 [LinkedIn](https://www.linkedin.com/in/joaopedroduo)
 
 ---
 
