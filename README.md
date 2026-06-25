@@ -1,4 +1,4 @@
- <h1 align="center"> Aulas de Java </h1>
+ <h1 align="center"> Aulas de Java | Generation Brasil </h1>
 
 <p align="center"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png?f=webp" width="150"> </p>
 
