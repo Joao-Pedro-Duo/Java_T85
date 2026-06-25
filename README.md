@@ -1,58 +1,67 @@
-<h1 align="center"> Aulas de Java </h1>
+#<h1 align="center"> Aulas de Java </h1>
 
 <p align="center"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png?f=webp" width="150"> </p>
 
 <p align="center"> Repositório destinado aos exercícios, desafios, atividades práticas e projetos desenvolvidos durante o Bootcamp Pessoa Desenvolvedora Full Stack Java Jr. da Generation Brasil. </p>
 
-<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="150"> </p>
-
-📖 Sobre o Repositório
+---
+<br><br>
+#📖 Sobre o Repositório
 
 Este repositório foi criado para armazenar e documentar minha evolução durante o Bootcamp Pessoa Desenvolvedora Full Stack Java Jr. da Generation Brasil.
 
 Aqui estão organizados exercícios, desafios, atividades práticas e projetos desenvolvidos ao longo da trilha Java, abordando desde os fundamentos da linguagem até conceitos mais avançados de Programação Orientada a Objetos e desenvolvimento de aplicações.
 
-🎯 Objetivos
-Desenvolver lógica de programação com Java;
-Aprender os fundamentos da linguagem Java;
-Aplicar conceitos de Programação Orientada a Objetos (POO);
-Trabalhar com estruturas de dados e Collections;
-Desenvolver aplicações seguindo boas práticas de programação;
-Preparar a base para o desenvolvimento com Spring Boot.
+---
+<br><br>
+#🎯 Objetivos
+- Desenvolver lógica de programação com Java;
+- Aprender os fundamentos da linguagem Java;
+- Aplicar conceitos de Programação Orientada a Objetos (POO);
+- Trabalhar com estruturas de dados e Collections;
+- Desenvolver aplicações seguindo boas práticas de programação;
+- Preparar a base para o desenvolvimento com Spring Boot.
 
-🚀 Conteúdos Estudados
+---
+<br><br>
+#🚀 Conteúdos Estudados
+<br>
+##📝 Fundamentos Java
 
-📝 Fundamentos Java
-Variáveis e Tipos de Dados
-Operadores
-Estruturas Condicionais
-Estruturas de Repetição
-Métodos
-Vetores e Matrizes
+- Variáveis e Tipos de Dados
+- Operadores
+- Estruturas Condicionais
+- Estruturas de Repetição
+- Métodos
+- Vetores e Matrizes
+<br>
+##📦 Programação Orientada a Objetos
 
-📦 Programação Orientada a Objetos
-Classes e Objetos
-Encapsulamento
-Herança
-Polimorfismo
-Classes Abstratas
-Interfaces
+- Classes e Objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Classes Abstratas
+- Interfaces
+<br>
+##📚 Collections Framework
 
-📚 Collections Framework
-ArrayList
-HashSet
-Queue
-Stack
-Manipulação de Coleções
+- ArrayList
+- HashSet
+- Queue
+- Stack
+- Manipulação de Coleções
+<br>
+##⚠️ Tratamento de Exceções
 
-⚠️ Tratamento de Exceções
-Try/Catch
-Throw
-Throws
-Exceções Personalizadas
+- Try/Catch
+- Throw
+- Throws
+- Exceções Personalizadas
 
-
-🛠️ Tecnologias Utilizadas
+---
+<br><br>
+#🛠️ Tecnologias Utilizadas
 
 <div>
 
@@ -60,23 +69,23 @@ Exceções Personalizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 </div>
 
-
-📈 Minha Jornada
+---
+<br><br>
+#📈 Minha Jornada
 
 Atualmente sou estudante de Engenharia de Software e participante do Bootcamp Pessoa Desenvolvedora Full Stack Java Jr. da Generation Brasil.
 
 Este repositório representa minha evolução técnica na área de desenvolvimento de software, reunindo exercícios, desafios e projetos que demonstram meu aprendizado em Java, Programação Orientada a Objetos e desenvolvimento de aplicações.
 
-
-👨‍💻 Autor
+---
+<br><br>
+#👨‍💻 Autor
 [João Pedro](https://github.com/Joao-Pedro-Duo)
 
 🎓 Estudante de Engenharia de Software
@@ -85,7 +94,7 @@ Este repositório representa minha evolução técnica na área de desenvolvimen
 
 🔗 [LinkedIn](www.linkedin.com/in/joaopedroduo)
 
-
-📄 Licença
+<br><br>
+#📄 Licença
 
 Projeto desenvolvido para fins educacionais durante o Bootcamp Pessoa Desenvolvedora Full Stack Java Jr. da Generation Brasil.
